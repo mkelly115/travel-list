@@ -1,1 +1,1 @@
-Cleaned up README
+- Need to finish video
