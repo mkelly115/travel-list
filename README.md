@@ -1,3 +1,3 @@
 - Now updating Delete via child - parent comms  
 
-- 3 videos left
+- 2 videos left
